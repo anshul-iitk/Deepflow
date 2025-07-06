@@ -49,8 +49,8 @@ Used historical auction data to build a model predicting bulldozer sale prices.
 
 ### Files:
 - [`Project.ipynb`](Project.ipynb) – Full notebook with preprocessing, training, and evaluation  
-- [`test_predictions.csv`](test_predictions.csv) – Final predictions on the test data  
-"""
+- [`test_predictions.csv`](test_predictions.csv) – Final predictions on the test data
+  
 ### Tools & Technologies Used
 - **Languages**: Python  
 - **Libraries**: pandas, numpy, matplotlib, scikit-learn  
