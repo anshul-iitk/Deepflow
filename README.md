@@ -16,9 +16,9 @@ These projects demonstrate key skills in **data preprocessing**, **feature engin
 
 This task explores the relationship between **Bitcoin market sentiment (Fear/Greed)** and **trader performance** using real execution data.
 
-### Dataset Sources
-- `historical_data.csv` – Trader execution data from Hyperliquid  
-- `fear_greed_index.csv` – Bitcoin sentiment index
+## Dataset Sources
+- [`historical_data.csv`](./data/historical_data.csv) - Trader execution data from Hyperliquid
+- [`fear_greed_index.csv`](./data/fear_greed_index.csv) - Bitcoin sentiment index
 
 ### Key Findings
 - Traders performed better on **Greed days**, especially with large trades.
@@ -48,9 +48,9 @@ Used historical auction data to build a model predicting bulldozer sale prices.
 - Generated predictions for the test set in the required format.
 
 ### Files:
-- `bulldozer_prediction.ipynb` – Full notebook with preprocessing, training, and evaluation  
-- `test_predictions.csv` – Final predictions on the test data  
-
+- [`Project.ipynb`](Project.ipynb) – Full notebook with preprocessing, training, and evaluation  
+- [`test_predictions.csv`](test_predictions.csv) – Final predictions on the test data  
+"""
 ### Tools & Technologies Used
 - **Languages**: Python  
 - **Libraries**: pandas, numpy, matplotlib, scikit-learn  
