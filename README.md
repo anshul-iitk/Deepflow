@@ -1,5 +1,16 @@
 
-# Deepflow
+# Market Sentiment & Bulldozer Price Prediction 
+
+## Overview
+
+This repository features two end-to-end data science projects completed as part of my coursework and self-learning:
+
+- **Market Sentiment & Trader Performance Analysis** – Explores the relationship between Bitcoin market sentiment (Fear/Greed) and trader behavior using real execution data. Focuses on data cleaning, merging, visual exploration, and insight extraction.
+  
+- **Bulldozer Price Prediction** – Built a machine learning model to predict the sale prices of bulldozers at auctions using historical data.
+
+These projects demonstrate key skills in **data preprocessing**, **feature engineering**, **exploratory data analysis (EDA)**, and **machine learning modeling** using Python.
+
 
 ## 1. Market Sentiment & Trader Performance Analysis mini Assignment
 
