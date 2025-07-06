@@ -12,10 +12,6 @@ This Task explores the relationship between **Bitcoin market sentiment** (Fear/G
 - BUY trades showed higher profit under Fear sentiment, SELL trades under Greed.
 - Greed days showed higher PnL volatility — indicating more aggressive risk behavior.
 
-## Structure
-- `notebooks/` – Jupyter notebook with full analysis
-- `data/` – Input datasets
-- `images/` – Generated plots
-- `report/` – Final written insights
+
 
 
